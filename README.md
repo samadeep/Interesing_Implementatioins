@@ -1,1 +1,7 @@
-# Interesing_Implementatioins
+## Interesting Explorations Implemented
+
+### 1. Perlin Noise
+
+
+
+
